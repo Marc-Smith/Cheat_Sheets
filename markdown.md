@@ -47,9 +47,9 @@ ___Strong emphasized text___
 
     Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
 
-[Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+[Named Link](http://www.google.com/ "Named link title") and http://www.google.com/ or <http://example.com/>
 
-    Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+    Markup :  [Named Link](http://www.google.com/ "Named link title") and http://www.google.com/ or <http://example.com/>
 
 [heading-1](#heading-1 "Goto heading-1")
     
@@ -111,8 +111,7 @@ Content Cell  | Content Cell | Content Cell
                 "name": "Test Transmission",
                 "artist": "Kasabian",
                 "album": "Kasabian",
-                "picture": null,
-                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
+                "picture": null
             }
         }
     }
